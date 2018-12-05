@@ -38,5 +38,5 @@
 <span id="r">oh shit</span><br>
 <span id="c">See you there, my friend.</span><br><br><br>
 
-<span id="w">You have reached the end of this message log.</span> <span id="a">To</span> <span id="w">view another message</span> <span id="a">on a similar topic, feel free to</span> <span id="w">click an underlined section</span> <span id="a">within the log. To <span id="w">return to the message log index</span> <span id="a">and choose another log, <a href="https://facets.neocities.org/" style="border-bottom:1px solid white"><span id="w"> click here.</span></a><br><br><br>
+<span id="w">You have reached the end of this message log.</span> <span id="a">To</span> <span id="w">view another message</span> <span id="a">on a similar topic, feel free to</span> <span id="w">click an underlined section</span> <span id="a">within the log. To <span id="w">return to the message log index</span> <span id="a">and choose another log, <a href="https://m-a-flynn.github.io/facets/" style="border-bottom:1px solid white"><span id="w"> click here.</span></a><br><br><br>
 <span id="b"> marci flynn 2018</span>
