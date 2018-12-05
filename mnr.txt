@@ -1,0 +1,46 @@
+<span id="a">Showing log for</span> <span id="w">date unneccessary</span><span id="a">, from </span><span id="w">2:17 PM</span><span id="a"> to </span><span id="w">2:34 PM</span><span id="a"> between </span><span id="m">Manuel</span><span id="a"> and </span><span id="r">Reese</span><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --><br><br><br>
+
+<span id="m"><span id="r">reese</span>!!!!</span><br>
+<span id="r"><span id="m">Manuel</span>!</span><br>
+<span id="m">how's your day goin bud?</span><br>
+<span id="r">oh, it is so nice to not have class on fridays. it's like I have a three day weekend, every weekend.</span><br>
+<span id="m">cool yeah that must be super for you!!</span><br>
+<span id="r">it is! this quarter is really ramping up, but I can get through it since I have such a nice little break each week. most of my fridays are usually spent doing work anyways, but then I've got the whole of the real weekend to myself.</span><br>
+<span id="m">:O that does sound nice, was it hard to schedule?? maybe i could do something like that next quarter, it'd really help things out. and how's your mom?</span><br>
+<span id="r">she's doing better, thanks. as it turns out, the crash was traumatic but not super damaging. she should be fine soon.</span><br>
+<span id="m">that's great to hear!!!!</span><br>
+<span id="r">yeah, it was good news to start the day with.</span><br>
+<span id="m">:)</span><br>
+<span id="r">... so, what's up with you?</span><br>
+<span id="m">oh i'm fine!!! no problems here :)</span><br>
+<span id="r">you sure you're doin ok <span id="m">Man</span>? you don't have any of your usual jokes and japes. you can be honest, you know I don't bite.</span><br>
+<span id="m">:( ... i think so, it's just a lot at this point in the term. i feel like i can't keep this up anymore!!</span><br>
+<span id="r">yeah, I know. just another week or two and you can head home for a while. what's got you stressed right now?</span><br>
+<span id="m">i dunno, just work and stuff. one of my classes has five assignments due this week alone!!! why?????</span><br>
+<span id="r">how can I help?</span><br>
+<span id="m">well, i think all i can ask right now is a little advice.</span><br>
+<span id="r">shoot</span><br>
+<span id="m">am i making too big a deal out of all this??</span><br>
+<span id="r">what? no! I mean, I don't think so.</span><br>
+<span id="m">well hear me out though, i ask because of this stupid book!!!!</span><br>
+<span id="r">why would Pale Fire make you think you're overreacting like that?</span><br>
+<span id="m">i just keep seeing myself in kinbote and i don't know what to do!! everyone says he's crazy, so does that make me crazy too??? and if it does, what am i supposed to do about it?????</span><br>
+<span id="r"><span id="m">manny</span>, for whatever it's worth, I don't think you're crazy. and even if you are, you've already proven that you're a perfectly wonderful person.</span><br>
+<span id="m">and it's all a mask!!!! all of it, <span id="r">reese</span>. i just keep shifting everything back to me in my head. the only time i've talked to <span id="c">cyrus</span> in the past month was because i wasn't understanding stuff, and we barely talked at all about anything else. i just feel like im just me me me all the time.</span><br>
+<span id="r">well, that's not what i heard from <span id="y">Yevette</span>. she said you helped her out a lot the other day.</span><br>
+<span id="m">sure i'll help out when it's my friends and it's easy, but what about when it's hard?? things got hard for kinbote and he turned his best friend's life's work into something entirely about himself!!! if i see myself in that, how do i even know if what i'm seeing is as rational as what everyone else is seeing???</span><br>
+<span id="r"><span id="c">Cyrus</span> actually came to me with a similar question recently. I think about it like this: you can't know anything for sure about the world. after all, you could always be wrong, as serious as the evidence may be. by that logic, you can't know for sure that you can't know anything for sure. so, it's up to you what you take seriously and what you dismiss as irrelevant or fictional. after all, your life is your life.</span><br>
+<span id="m">ooh was that an impression of <span id="c">cyrus</span>?? you came close but he wouldnt say it like that</span><br>
+<span id="r">oh, no. i was just saying that it's up to you to decide what's real.</span><br>
+<span id="m">that makes sense i guess.</span><br>
+<span id="r">and you know what? you have something else that makes you better than him. remember asking about my mom? that was just, like, ten minutes ago. that was a genuine interest in the health and wellbeing of someone other than yourself, even though you have no real attachment to that person. Kinbote would never have been able to do that! you have way too much empathy for that kind of narcissism.</span><br>
+<span id="m">but i just did that to start talking to you!! because i wanted to vent about my own stuff!!!!</span><br>
+<span id="r">but what about when you talked with <span id="y">Yevette</span>? I don't really know what you said, but whatever it was, she was happer later on in the day. that kind of caring can't just be a mask.</span><br>
+<span id="m">i guess you're right...</span><br>
+<span id="r">besides, if you're worried you're not a good enough authority on your own actions, I'm a certified m.d. (<span id="m">Manuel</span> doctor) and I give you my seal of approval.</span><br>
+<span id="m">:O you mean i'm all better, doc?</span><br>
+<span id="r">there was nothing wrong in the first place. you're you, 100%.</span><br>
+<span id="m">:) thanks <span id="r">reese</span>.</span><br>
+
+<span id="w">You have reached the end of this message log.</span> <span id="a">To</span> <span id="w">view another message</span> <span id="a">on a similar topic, feel free to</span> <span id="w">click an underlined section</span> <span id="a">within the log. To <span id="w">return to the message log index</span> <span id="a">and choose another log, <a href="https://facets.neocities.org/" style="border-bottom:1px solid white"><span id="w"> click here.</span></a><br><br><br>
+<span id="b"> marci flynn 2018</span>
