@@ -10,7 +10,7 @@
 <span id="r">you literally cited two sources in a single text message! that's dedication.</span><br>
 <span id="c">Are you going to state your opinion, or not? </span><br>
 <span id="r">I'm sorry, I do really enjoy your enthusiasm. it's just that something about reading that makes me want to go back to sleep...</span><br>
-<span id="c">Fine, I'll ask someone else. <a href="https://m-a-flynn.github.io/facets/cny.html" style="border-bottom:1px solid white"><span id="r">Maybe <span id="y">Yevette</span> would appreciate the practice of a bout of adacemic discourse.</span></a></span><br>
+<span id="c">Fine, I'll ask someone else. <a href="https://m-a-flynn.github.io/facets/cny.html" style="border-bottom:1px solid white"><span id="r">Maybe <span id="y">Yevette</span> would appreciate the practice of a bout of academic discourse.</span></a></span><br>
 <span id="r">no really, stay. just walk me through this for a second.</span><br>
 <span id="c">It's really not that complex of an argument.</span><br>
 <span id="r">maybe it would be for a me who'd been awake for a few hours, but right now I need some handholding.</span><br>
@@ -29,7 +29,7 @@
 <span id="c">Not exactly, of course. But I do remember Mr. Wojtkowiak essentially ignoring the effects of drag in every problem, for the entire year.</span><br>
 <span id="r">exactly. it seems like you're trying to structure this conversation like one of those exercises. (which is interesting, since I am a human, and you are a human, and neither of us is grading eachother on the content of our text messages, but whatever.) "can we base identity on memory" is a useless question when there is no alternative. sure, we can argue it for the sake of arguing, just like you can calculate the velocity of that ball for the sake of practice, but you're never going to encounter something like that outside of that kind of a conversation.</span><br>
 <span id="c">Well then, what should we do? We can't just produce research and then ignore it.</span><br>
-<span id="r">isn't just keeping in mind how bad our memories are enough? I've always tried to stay open to the idea that I misremembered things, even things I thought were really important. if you just take this research, as well as the example of Kinbote, as another couple reasons to stay skeptical, isn't that enough? not every major revalation needs to spark a new way of living life, especially if you can just take it as a new way to see the world.</span><br>
+<span id="r">isn't just keeping in mind how bad our memories are enough? I've always tried to stay open to the idea that I misremembered things, even things I thought were really important. if you just take this research, as well as the example of Kinbote, as another couple reasons to stay skeptical, isn't that enough? not every major revelation needs to spark a new way of living life, especially if you can just take it as a new way to see the world.</span><br>
 <span id="c">Alright then. Thank you for sharing. That wasn't the topic of argument I had in mind, but it was certainly an interesting one.</span><br>
 <span id="r">wait, we're done just like that? are you actually grading me or something????</span><br>
 <span id="c">No, I just thought foray into debate would be a delicious way to start the morning.</span><br>
